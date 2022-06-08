@@ -1,2 +1,2 @@
 # Multivariante
-Ejercicios de la materia de Estadística Multivariada
+este respositorio contiene los ejercicios realizados en la clase  de Estadística Multivariada.
